@@ -1,7 +1,6 @@
 
 #include<stdio.h>
 #include<gmp.h>
-#include"header.h"
 struct node
 {
     int data;
